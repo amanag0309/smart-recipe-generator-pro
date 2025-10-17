@@ -7,11 +7,6 @@ An AI-powered recipe generator that suggests personalized dishes based on the in
 
 ---
 
-## 📸 Preview
-![Dashboard Screenshot](./screenshots/dashboard.png)
-
----
-
 ## 📜 Project Overview
 The **Smart Recipe Generator** is a modern web app designed to save time and reduce food waste by suggesting recipes tailored to what you already have at home. Users can type ingredients or upload a photo, and the app provides recipes with step-by-step instructions, nutrition info, and substitution options.
 
