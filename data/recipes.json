@@ -1,0 +1,618 @@
+[
+  {
+    "id": "tandoori-chicken",
+    "title": "Tandoori Chicken",
+    "description": "Yogurt-marinated chicken roasted till smoky.",
+    "ingredients": [
+      "500 g chicken",
+      "1 cup yogurt",
+      "2 tbsp tandoori masala",
+      "1 tbsp lemon juice",
+      "1 tsp salt",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Mix marinade and coat chicken",
+      "Rest 1-2 hours",
+      "Bake/grill 25-30 min until cooked"
+    ],
+    "time": 40,
+    "difficulty": "easy",
+    "diet": [
+      "gluten-free"
+    ],
+    "servings": 4,
+    "nutrition": {
+      "calories": 110,
+      "protein": 9
+    }
+  },
+  {
+    "id": "palak-paneer",
+    "title": "Palak Paneer",
+    "description": "Creamy spinach with cottage cheese.",
+    "ingredients": [
+      "2 cups spinach",
+      "200 g paneer",
+      "1 onion",
+      "1 tomato",
+      "1 tsp ginger garlic paste",
+      "1 tbsp cream",
+      "1 tbsp oil",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Blanch and blend spinach",
+      "Saute onion-tomato, add puree",
+      "Add paneer & cream, simmer 5 min"
+    ],
+    "time": 30,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "servings": 3,
+    "nutrition": {
+      "calories": 130,
+      "protein": 7
+    }
+  },
+  {
+    "id": "veg-pulao",
+    "title": "Veg Pulao",
+    "description": "Fragrant rice with mixed vegetables.",
+    "ingredients": [
+      "1 cup basmati rice",
+      "1.5 cups water",
+      "1 cup mixed vegetables",
+      "1 onion",
+      "1 tsp garam masala",
+      "1 tbsp oil",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Saute onion & veggies",
+      "Add rice, spices, water",
+      "Cook till rice is done"
+    ],
+    "time": 25,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "servings": 2,
+    "nutrition": {
+      "calories": 120,
+      "protein": 5
+    }
+  },
+  {
+    "id": "masala-omelette",
+    "title": "Masala Omelette",
+    "description": "Spicy Indian-style omelette.",
+    "ingredients": [
+      "3 eggs",
+      "1 onion",
+      "1 tomato",
+      "1 green chilli",
+      "1 tbsp oil",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Beat eggs with chopped veg",
+      "Cook on pan till set"
+    ],
+    "time": 10,
+    "difficulty": "easy",
+    "diet": [
+      "gluten-free",
+      "keto"
+    ],
+    "servings": 2,
+    "nutrition": {
+      "calories": 110,
+      "protein": 7
+    }
+  },
+  {
+    "id": "chole",
+    "title": "Chole (Chickpea Curry)",
+    "description": "Hearty Punjabi chickpeas curry.",
+    "ingredients": [
+      "2 cups boiled chickpeas",
+      "1 onion",
+      "2 tomatoes",
+      "1 tsp ginger garlic paste",
+      "1 tsp garam masala",
+      "1 tbsp oil",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Saute onion, add paste & tomatoes",
+      "Add chickpeas & spices",
+      "Simmer 10-15 min"
+    ],
+    "time": 35,
+    "difficulty": "medium",
+    "diet": [
+      "vegan",
+      "gluten-free"
+    ],
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 7
+    }
+  },
+  {
+    "id": "paneer-bhurji",
+    "title": "Paneer Bhurji",
+    "description": "Scrambled paneer with spices.",
+    "ingredients": [
+      "200 g paneer",
+      "1 onion",
+      "1 tomato",
+      "1 tsp ginger garlic paste",
+      "1 tbsp oil",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Saute onion & paste",
+      "Add tomato, crumble paneer",
+      "Cook 5-7 min"
+    ],
+    "time": 20,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian",
+      "gluten-free",
+      "keto"
+    ],
+    "servings": 3,
+    "nutrition": {
+      "calories": 110,
+      "protein": 7
+    }
+  },
+  {
+    "id": "dal-tadka",
+    "title": "Dal Tadka",
+    "description": "Lentils tempered with ghee and spices.",
+    "ingredients": [
+      "1 cup lentils",
+      "3 cups water",
+      "1 onion",
+      "1 tomato",
+      "1 tsp cumin",
+      "1 tbsp ghee",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Boil lentils",
+      "Temper spices in ghee",
+      "Combine and simmer"
+    ],
+    "time": 30,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 7
+    }
+  },
+  {
+    "id": "grilled-sandwich",
+    "title": "Grilled Veg Sandwich",
+    "description": "Cheesy vegetable sandwich.",
+    "ingredients": [
+      "4 bread slices",
+      "1 onion",
+      "1 tomato",
+      "1 capsicum",
+      "2 tbsp butter",
+      "2 slices cheese",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Assemble veggies & cheese",
+      "Grill till golden"
+    ],
+    "time": 12,
+    "difficulty": "easy",
+    "diet": [],
+    "servings": 2,
+    "nutrition": {
+      "calories": 120,
+      "protein": 7
+    }
+  },
+  {
+    "id": "pasta-arrabbiata",
+    "title": "Pasta Arrabbiata",
+    "description": "Spicy tomato-based pasta.",
+    "ingredients": [
+      "200 g pasta",
+      "2 cups tomato puree",
+      "3 garlic cloves",
+      "1 tbsp olive oil",
+      "1 tsp chilli flakes",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Boil pasta",
+      "Saute garlic, add puree & chilli",
+      "Combine with pasta"
+    ],
+    "time": 20,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian"
+    ],
+    "servings": 2,
+    "nutrition": {
+      "calories": 110,
+      "protein": 5
+    }
+  },
+  {
+    "id": "egg-fried-rice",
+    "title": "Egg Fried Rice",
+    "description": "Quick wok-tossed rice with eggs.",
+    "ingredients": [
+      "2 cups cooked rice",
+      "2 eggs",
+      "1 onion",
+      "1/2 cup peas",
+      "1 tbsp soy sauce",
+      "1 tbsp oil",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Scramble eggs",
+      "Stir-fry onion/peas",
+      "Add rice & sauce"
+    ],
+    "time": 15,
+    "difficulty": "easy",
+    "diet": [
+      "gluten-free"
+    ],
+    "servings": 2,
+    "nutrition": {
+      "calories": 120,
+      "protein": 7
+    }
+  },
+  {
+    "id": "caprese-salad",
+    "title": "Caprese Salad",
+    "description": "Tomato, mozzarella & basil.",
+    "ingredients": [
+      "2 tomatoes",
+      "100 g mozzarella",
+      "fresh basil",
+      "1 tbsp olive oil",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Slice and assemble",
+      "Drizzle oil & salt"
+    ],
+    "time": 8,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian",
+      "keto",
+      "gluten-free"
+    ],
+    "servings": 2,
+    "nutrition": {
+      "calories": 100,
+      "protein": 5
+    }
+  },
+  {
+    "id": "chicken-stirfry",
+    "title": "Chicken Stir-Fry",
+    "description": "Colorful veggies with chicken.",
+    "ingredients": [
+      "300 g chicken",
+      "1 onion",
+      "1 bell pepper",
+      "2 tbsp soy sauce",
+      "1 tbsp oil",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Stir-fry chicken",
+      "Add veg & sauce",
+      "Cook till crisp-tender"
+    ],
+    "time": 18,
+    "difficulty": "easy",
+    "diet": [
+      "gluten-free",
+      "keto"
+    ],
+    "servings": 3,
+    "nutrition": {
+      "calories": 110,
+      "protein": 7
+    }
+  },
+  {
+    "id": "paneer-tikka",
+    "title": "Paneer Tikka",
+    "description": "Spiced grilled paneer skewers.",
+    "ingredients": [
+      "250 g paneer",
+      "1/2 cup yogurt",
+      "1 tsp tandoori masala",
+      "1 tbsp oil",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Marinate paneer",
+      "Grill 10-12 min"
+    ],
+    "time": 20,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian",
+      "gluten-free",
+      "keto"
+    ],
+    "servings": 3,
+    "nutrition": {
+      "calories": 100,
+      "protein": 9
+    }
+  },
+  {
+    "id": "oats-porridge",
+    "title": "Oats Porridge",
+    "description": "Comforting breakfast bowl.",
+    "ingredients": [
+      "1/2 cup oats",
+      "1 cup milk",
+      "1 tsp honey",
+      "pinch cinnamon"
+    ],
+    "steps": [
+      "Simmer oats & milk",
+      "Finish with honey & cinnamon"
+    ],
+    "time": 7,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian"
+    ],
+    "servings": 1,
+    "nutrition": {
+      "calories": 90,
+      "protein": 7
+    }
+  },
+  {
+    "id": "poha",
+    "title": "Poha",
+    "description": "Flattened rice with peanuts & spices.",
+    "ingredients": [
+      "2 cups poha",
+      "1 onion",
+      "1 potato",
+      "1/4 cup peanuts",
+      "1 tsp mustard",
+      "1 tbsp oil",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Rinse poha",
+      "Temper spices, cook onions/potatoes",
+      "Combine poha & peanuts"
+    ],
+    "time": 15,
+    "difficulty": "easy",
+    "diet": [
+      "vegan"
+    ],
+    "servings": 2,
+    "nutrition": {
+      "calories": 120,
+      "protein": 7
+    }
+  },
+  {
+    "id": "veg-maggi",
+    "title": "Masala Maggi",
+    "description": "Instant noodles upgrade.",
+    "ingredients": [
+      "1 pack noodles",
+      "1 cup mixed veg",
+      "2 cups water",
+      "1 tsp oil"
+    ],
+    "steps": [
+      "Boil with veggies & masala",
+      "Serve hot"
+    ],
+    "time": 8,
+    "difficulty": "easy",
+    "diet": [],
+    "servings": 1,
+    "nutrition": {
+      "calories": 90,
+      "protein": 5
+    }
+  },
+  {
+    "id": "avocado-toast",
+    "title": "Avocado Toast",
+    "description": "Creamy avocado on toasted bread.",
+    "ingredients": [
+      "2 bread slices",
+      "1 avocado",
+      "1 tsp lemon juice",
+      "1/4 tsp salt"
+    ],
+    "steps": [
+      "Mash avocado with lemon & salt",
+      "Spread on toast"
+    ],
+    "time": 6,
+    "difficulty": "easy",
+    "diet": [
+      "vegan"
+    ],
+    "servings": 1,
+    "nutrition": {
+      "calories": 90,
+      "protein": 5
+    }
+  },
+  {
+    "id": "banana-smoothie",
+    "title": "Banana Smoothie",
+    "description": "Quick protein-packed smoothie.",
+    "ingredients": [
+      "1 banana",
+      "1 cup milk",
+      "1 tbsp peanut butter",
+      "1 tsp honey"
+    ],
+    "steps": [
+      "Blend till smooth"
+    ],
+    "time": 4,
+    "difficulty": "easy",
+    "diet": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "servings": 1,
+    "nutrition": {
+      "calories": 90,
+      "protein": 9
+    }
+  },
+  {
+    "id": "aloo-paratha",
+    "title": "Aloo Paratha",
+    "description": "Stuffed potato flatbread.",
+    "ingredients": [
+      "2 cups wheat flour",
+      "2 potatoes",
+      "1 onion",
+      "1 tsp cumin",
+      "1/2 tsp salt",
+      "1 tbsp oil"
+    ],
+    "steps": [
+      "Make dough & stuffing",
+      "Roll & roast with oil"
+    ],
+    "time": 35,
+    "difficulty": "medium",
+    "diet": [
+      "vegetarian"
+    ],
+    "servings": 2,
+    "nutrition": {
+      "calories": 110,
+      "protein": 5
+    }
+  },
+  {
+    "id": "shakshuka",
+    "title": "Shakshuka",
+    "description": "Eggs poached in spicy tomato sauce.",
+    "ingredients": [
+      "4 eggs",
+      "2 cups tomato puree",
+      "1 onion",
+      "1 bell pepper",
+      "1 tsp paprika",
+      "1/2 tsp salt"
+    ],
+    "steps": [
+      "Simmer sauce",
+      "Crack eggs and poach 6-8 min"
+    ],
+    "time": 22,
+    "difficulty": "medium",
+    "diet": [
+      "gluten-free",
+      "keto"
+    ],
+    "servings": 3,
+    "nutrition": {
+      "calories": 110,
+      "protein": 7
+    }
+  },
+  {
+    "id": "rajma",
+    "title": "Rajma",
+    "description": "North Indian kidney bean curry.",
+    "ingredients": [
+      "2 cups boiled kidney beans",
+      "1 onion",
+      "2 tomatoes",
+      "1 tsp ginger garlic paste",
+      "1 tsp garam masala",
+      "1 tbsp oil",
+      "1 tsp salt"
+    ],
+    "steps": [
+      "Saute aromatics",
+      "Add tomatoes & spices",
+      "Add beans & simmer"
+    ],
+    "time": 40,
+    "difficulty": "medium",
+    "diet": [
+      "vegan",
+      "gluten-free"
+    ],
+    "servings": 4,
+    "nutrition": {
+      "calories": 120,
+      "protein": 7
+    }
+  },
+  {
+    "id": "sabudana-khichdi",
+    "title": "Sabudana Khichdi",
+    "description": "Light tapioca pearls stir-fry.",
+    "ingredients": [
+      "2 cups soaked sabudana",
+      "1 potato",
+      "1/4 cup peanuts",
+      "1 green chilli",
+      "1 tbsp ghee",
+      "salt to taste"
+    ],
+    "steps": [
+      "Saute potatoes",
+      "Add soaked sabudana & peanuts",
+      "Toss till translucent"
+    ],
+    "time": 20,
+    "difficulty": "easy",
+    "diet": [
+      "gluten-free"
+    ],
+    "servings": 3,
+    "nutrition": {
+      "calories": 110,
+      "protein": 7
+    }
+  }
+]
